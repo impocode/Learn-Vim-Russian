@@ -18,6 +18,7 @@
 
 - [Глава 1 - Запуск Vim](./ch01_starting_vim.md)
 - [Глава 2 - Буферы, окна и вкладки](./ch02_buffers_windows_tabs.md)
+- [Глава 3 - Поиск файлов](./ch03_searching_files.md)
 
 ## Лицензия и авторское право
 
